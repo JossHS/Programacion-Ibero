@@ -1,2 +1,9 @@
 # Programacion-Ibero
 Programación aplicada 1
+
+PRÁCTICAS REALIZADAS HASTA EL MOMENTO
+
+HOLA MUNDO!
+IF-ELSE
+CALCULADORA
+
